@@ -1,3 +1,5 @@
+# 성적 CSV 처리의 정상 및 예외 상황을 확인하는 테스트
+
 from pathlib import Path
 import pytest
 
